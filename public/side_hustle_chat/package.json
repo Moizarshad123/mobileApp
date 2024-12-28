@@ -1,0 +1,21 @@
+{
+  "name": "nodechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon cc_socket.js --w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.0.1",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.28.0",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.5.4"
+  }
+}

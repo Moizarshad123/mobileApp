@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "hustleapp_user",
+      "password": "D:x?6,GKZfikwkZY",
+      "database": "hustleapp",
+      "host": "45.76.65.98",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "chatsend_db",
+      "password": "nhfwkjkdg%Rk&dn",
+      "database": "chat-send",
+      "host": "172.16.100.165",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "chatsend_db",
+      "password": "nhfwkjkdg%Rk&dn",
+      "database": "chat-send",
+      "host": "172.16.100.165",
+      "dialect": "mysql"
+    }
+  }
